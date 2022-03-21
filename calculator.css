@@ -1,0 +1,24 @@
+.container{
+
+}
+
+
+.inputbar{
+    height: 70px;
+    width: 284px;
+    float: right;
+    border-radius: 10px;
+    border-color: gray;
+}
+button{
+    height: 70px;
+    width: 70px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+   
+    }
+    table{
+        
+        border-collapse: collapse;
+    }
